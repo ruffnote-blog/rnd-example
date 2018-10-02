@@ -1,0 +1,22 @@
+.App {
+  padding: 30px;
+}
+
+.container {
+  height: 100px;
+  width: 960px;
+  position: relative;
+  display: flex;
+  border: 1px solid gray;
+}
+
+.item {
+  flex: 1;
+  height: 100%; 
+  border: 1px solid gray;
+}
+
+.rnd {
+  border: 2px solid red;
+  background: orange;
+}
